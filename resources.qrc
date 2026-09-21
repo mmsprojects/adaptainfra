@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/plugins/adaptainfra">
+        <file>icons/icon_adaptainfra.png</file>
+		<file>icons/login.png</file>
+		<file>icons/start_bg.png</file>
+		<file>icons/stop_bg.png</file>
+		<file>icons/aiinf.png</file>
+		<file>icons/sample.png</file>
+		<file>icons/plus.png</file>
+		<file>icons/save.png</file>
+		<file>icons/datasetgen.jpg</file>
+		<file>icons/image_minner_icon2.jpeg</file>
+		<file>icons/giz_icon.png</file>
+		<file>icons/geosustentability_icon.png</file>
+		<file>icons/icon_adaptainfra_semfundo.png</file>
+		<file>icons/logo_fia.png</file>
+		<file>icons/olasis_logo.jpg</file>
+		<file>icons/olabot_icon_semfundo.png</file>
+		<file>icons/justica_climatica_logo_semfundo.png</file>
+    </qresource>
+</RCC>
